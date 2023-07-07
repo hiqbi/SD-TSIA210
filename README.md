@@ -15,3 +15,18 @@ Error VS complexity
 Application to face classification
 
 PCA
+
+## TP3 : Neural networks with `TensorFlow` and `Keras`
+
+Multi-layer perceptron 
+
+Backpropagation
+
+Gradient descent
+
+Regularization & Dropout
+
+PCA VS Autoencoder
+
+De-noising Autoencoders
+
